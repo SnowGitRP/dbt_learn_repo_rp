@@ -1,1 +1,1 @@
-SELECT 'Hello from VS Code' as message
+SELECT 'Hello from VS Code v2' as message

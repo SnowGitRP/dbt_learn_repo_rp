@@ -1,1 +1,1 @@
-SELECT 'Hello from GitHub' as message
+SELECT 'Hello from GitHub v2' as message
